@@ -1,6 +1,7 @@
 Ο Gunnar Fant ήταν Σουηδός επιστήμονας και πιο γνωστός για την έρευνά του στον τομέα της φωνητικής και της επεξεργασίας φωνής. Γεννήθηκε στις 9 Ιουνίου 1919 και απεβίωσε στις 17 Ιουλίου 2009. Ήταν ένας από τους πρωτοπόρους στην εφαρμογή των αρχών της μηχανικής της φωνής και της σύνθεσης ομιλίας.
 
 ![gunnar-fant](https://github.com/tonykontos/images/blob/master/gunnar-fant.jpg)
+![gunnar-fant](https://github.com/tonykontos/images/blob/24de30eeb988798050266aaa50f8d2b00d818fdb/gunnar-fant.jpg)
 
 {% include figure image_path="/images/gunnar-gant.jpg" caption="Figure 1: Gunnar Fant (1999)." id="fig:gunnar-gant" %}
 
