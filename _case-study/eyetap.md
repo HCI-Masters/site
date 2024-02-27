@@ -1,6 +1,6 @@
 ---
 author: VasilisK23
-title: "Steve Mann"
+title: "Eye Tap"
 image_url: /images/eye-tap-today.png
 caption: "Το EyeTap είναι τα πρώτα ψηφιακό γυαλιά οράσεως στον κόσμο. Εφευρέθηκαν από τον καθηγητή Steve Mann το 1984, σχεδόν 30 χρόνια πριν την άφιξη του Google Glass 2013."
 categories:
